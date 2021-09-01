@@ -58,11 +58,11 @@ auto['marca'];
 auto['year'];
 auto['usado'];
 
-// Tipo array
-// Los arrays son objetos similares a una lista. Pueden aumentar en su longitud.
+// Tipo matriz
+// Las matriz o arrays son objetos similares a una lista. Pueden aumentar en su longitud.
 var frutas = ['Manzana', 'Banana'];
 frutas.length;
-// Acceder a una posición de un array
+// Acceder a una posición de una matriz (array)
 var elegida = frutas[1];
 
 // Tipo undefined
