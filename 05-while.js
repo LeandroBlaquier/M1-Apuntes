@@ -30,6 +30,7 @@ while (counter < 50) {
 
 // 5- Bucle do while
 // En este caso el cuerpo del bucle se mueve para arriba y se agrega la palabra do (hacer)
+// Siempre se ejecuta el bucle do al menos una vez
 var counter2 = 60;
 
 do {
